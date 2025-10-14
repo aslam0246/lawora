@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="40" rx="8" fill="#0B5ED7"/>
+  <g>
+    <text x="50" y="26" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Lexora</text>
+    <rect x="18" y="10" width="18" height="6" rx="2" fill="#FFFFFF"/>
+    <rect x="24" y="16" width="6" height="12" rx="2" fill="#FFFFFF"/>
+    <rect x="10" y="24" width="26" height="4" rx="2" fill="#FFFFFF" opacity="0.85"/>
+  </g>
+</svg>
+
+
+

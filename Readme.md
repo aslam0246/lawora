@@ -35,9 +35,6 @@ Lawora currently supports the following laws, with plans to expand:
 - **The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013**
 
 
-[//]: # (Origin and external references removed)
-
-
 
 <div>
     <a href="https://www.loom.com/embed/dcc6b14c653c4618829f46a9aa2ab68c?sid=a5a73b89-88a5-4bc2-a633-f97792f6441f">

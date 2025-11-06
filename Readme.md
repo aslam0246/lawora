@@ -37,13 +37,6 @@ Lawora currently supports the following laws, with plans to expand:
 
 [//]: # (Origin and external references removed)
 
----
-
-## 🎥 **Video Tutorial**
-
-[//]: # (Video tutorial link removed)
-
-[//]: # (Thumbnail removed)
 
 
 <div>

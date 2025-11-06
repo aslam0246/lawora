@@ -12,7 +12,7 @@
 
 [//]: # (External website link removed for private branding)
 
-**Lexora** is an AI-powered assistant designed to make legal guidance accessible. Using **Retriever-Augmented Generation (RAG)**, **Lexora** delivers quick, contextual legal support.
+**Lawora** is an AI-powered assistant designed to make legal guidance accessible. Using **Retriever-Augmented Generation (RAG)**, **Lexora** delivers quick, contextual legal support.
 
 > 🛡️ **Mission:** “Make legal knowledge accessible, clear, and actionable.”
 

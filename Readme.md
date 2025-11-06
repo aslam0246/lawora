@@ -1,4 +1,4 @@
-# ⚖️ **Lexora: AI-Powered Legal Assistant**
+# ⚖️ **Lawora: AI-Powered Legal Assistant**
 
 [//]: # (Badges removed for private branding)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/license/apache-2-0)
@@ -22,7 +22,7 @@ This project is developed with support from mentors and experts at [Data Science
 
 ## 📚 **Legal Coverage**
 
-Lexora currently supports the following laws, with plans to expand:
+Lawora currently supports the following laws, with plans to expand:
 
 - 🏛️ **The Indian Constitution**
 - 📜 **The Bharatiya Nyaya Sanhita, 2023**
@@ -175,7 +175,7 @@ Lexora can use Redis to cache chat history and LLM responses for faster performa
 
 ## 🌟 **Future Roadmap**
 
-Planned enhancements for **Lexora**:
+Planned enhancements for **Lawora**:
 
 1.  **🤝 Smarter Together: Introducing Our Multi-Agentic Framework 🤖**
     * Imagine a team of specialized AI agents working seamlessly in the background to provide you with the most comprehensive and efficient legal insights. Our new multi-agent framework makes this a reality, boosting platform performance like never before!
@@ -206,4 +206,4 @@ Planned enhancements for **Lexora**:
 
 ---
 
-**Lexora** aims to democratize access to legal knowledge.
+**Lawora** aims to democratize access to legal knowledge.
